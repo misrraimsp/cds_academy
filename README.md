@@ -4,7 +4,7 @@
 Python exercises from the CDS Junior Talent Program
 
 For more info:
-- [Task Definition.pdf](https://github.com/misrraimsp/mitop/blob/master/Task%20Definition.pdf)
+- [Task Definition.pdf](https://github.com/misrraimsp/pyUp/blob/master/Task%20Definition.pdf)
 
 ## Technologies
 Project is created with:
