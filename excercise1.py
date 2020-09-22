@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def max(x = 0, y = 0):
-  "returns the greatest argument"
+  "function that takes as argument two numbers and returns the largest of them"
   if x > y: return x
   return y
 

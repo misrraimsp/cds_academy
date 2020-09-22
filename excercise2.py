@@ -20,3 +20,4 @@ print("isVowel('_'): ", isVowel('_'))
 print("isVowel('3'): ", isVowel('3'))
 print("isVowel(('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U')): ", isVowel(vowels))
 
+del vowels
